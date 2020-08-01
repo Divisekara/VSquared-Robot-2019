@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=BUZZER-3
+Change Component Designator: OldDesignator=ARDUINO NewDesignator=FROM ARDUINO
+Change Component Designator: OldDesignator=BLUETOOTH NewDesignator=BLUETOOTH HC05
+Change Component Designator: OldDesignator=INDICATOR NewDesignator=POWER INDICATOR
+Added Pin To Net: NetName=VCC Pin=BUZZER-2
+Added Pin To Net: NetName=NetBUZZER_3 Pin=BUZZER-3
+Added Pin To Net: NetName=NetBUZZER_3 Pin=FROM ARDUINO-5
+Added Net: Name=NetBUZZER_3
+Added Member To Class: ClassName=Sheet1 Member=Component POWER Header 2
+Added Room: Name=Sheet1

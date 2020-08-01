@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetFROM ARDUINO_6 Pin=TILT-1
+Removed Pin From Net: NetName=VCC Pin=TILT-3
+Added Pin To Net: NetName=VCC Pin=TILT-1
+Added Pin To Net: NetName=NetFROM ARDUINO_6 Pin=TILT-3
+Added Room: Name=Sheet1

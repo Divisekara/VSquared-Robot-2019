@@ -1,0 +1,151 @@
+Added Component: Designator=BLUETOOTH HC05(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=BLUE(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=BUZZER(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DISPLAY(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=FROM ARDUINO(HDR1X12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=GREEN(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=POWER INDICATOR(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=POWER(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RED(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=TILT(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BLUETOOTH HC05-4
+Added Pin To Net: NetName=GND Pin=BUZZER-1
+Added Pin To Net: NetName=GND Pin=DISPLAY-4
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=TILT-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBLUE_1 Pin=BLUE-1
+Added Pin To Net: NetName=NetBLUE_1 Pin=FROM ARDUINO-2
+Added Net: Name=NetBLUE_1
+Added Pin To Net: NetName=NetBLUE_2 Pin=BLUE-2
+Added Pin To Net: NetName=NetBLUE_2 Pin=GREEN-2
+Added Pin To Net: NetName=NetBLUE_2 Pin=POWER INDICATOR-2
+Added Pin To Net: NetName=NetBLUE_2 Pin=R3-1
+Added Pin To Net: NetName=NetBLUE_2 Pin=RED-2
+Added Net: Name=NetBLUE_2
+Added Pin To Net: NetName=NetBLUETOOTH HC05_1 Pin=BLUETOOTH HC05-1
+Added Pin To Net: NetName=NetBLUETOOTH HC05_1 Pin=FROM ARDUINO-12
+Added Net: Name=NetBLUETOOTH HC05_1
+Added Pin To Net: NetName=NetBLUETOOTH HC05_2 Pin=BLUETOOTH HC05-2
+Added Pin To Net: NetName=NetBLUETOOTH HC05_2 Pin=R1-2
+Added Pin To Net: NetName=NetBLUETOOTH HC05_2 Pin=R2-1
+Added Net: Name=NetBLUETOOTH HC05_2
+Added Pin To Net: NetName=NetBLUETOOTH HC05_3 Pin=BLUETOOTH HC05-3
+Added Pin To Net: NetName=NetBLUETOOTH HC05_3 Pin=FROM ARDUINO-10
+Added Net: Name=NetBLUETOOTH HC05_3
+Added Pin To Net: NetName=NetBLUETOOTH HC05_6 Pin=BLUETOOTH HC05-6
+Added Pin To Net: NetName=NetBLUETOOTH HC05_6 Pin=FROM ARDUINO-11
+Added Net: Name=NetBLUETOOTH HC05_6
+Added Pin To Net: NetName=NetBUZZER_2 Pin=BUZZER-2
+Added Pin To Net: NetName=NetBUZZER_2 Pin=FROM ARDUINO-5
+Added Net: Name=NetBUZZER_2
+Added Pin To Net: NetName=NetDISPLAY_1 Pin=DISPLAY-1
+Added Pin To Net: NetName=NetDISPLAY_1 Pin=FROM ARDUINO-8
+Added Net: Name=NetDISPLAY_1
+Added Pin To Net: NetName=NetDISPLAY_2 Pin=DISPLAY-2
+Added Pin To Net: NetName=NetDISPLAY_2 Pin=FROM ARDUINO-7
+Added Net: Name=NetDISPLAY_2
+Added Pin To Net: NetName=NetFROM ARDUINO_1 Pin=FROM ARDUINO-1
+Added Pin To Net: NetName=NetFROM ARDUINO_1 Pin=POWER INDICATOR-1
+Added Net: Name=NetFROM ARDUINO_1
+Added Pin To Net: NetName=NetFROM ARDUINO_3 Pin=FROM ARDUINO-3
+Added Pin To Net: NetName=NetFROM ARDUINO_3 Pin=GREEN-1
+Added Net: Name=NetFROM ARDUINO_3
+Added Pin To Net: NetName=NetFROM ARDUINO_4 Pin=FROM ARDUINO-4
+Added Pin To Net: NetName=NetFROM ARDUINO_4 Pin=RED-1
+Added Net: Name=NetFROM ARDUINO_4
+Added Pin To Net: NetName=NetFROM ARDUINO_6 Pin=FROM ARDUINO-6
+Added Pin To Net: NetName=NetFROM ARDUINO_6 Pin=TILT-1
+Added Net: Name=NetFROM ARDUINO_6
+Added Pin To Net: NetName=NetFROM ARDUINO_9 Pin=FROM ARDUINO-9
+Added Pin To Net: NetName=NetFROM ARDUINO_9 Pin=R1-1
+Added Net: Name=NetFROM ARDUINO_9
+Added Pin To Net: NetName=VCC Pin=BLUETOOTH HC05-5
+Added Pin To Net: NetName=VCC Pin=BUZZER-3
+Added Pin To Net: NetName=VCC Pin=DISPLAY-3
+Added Pin To Net: NetName=VCC Pin=POWER-1
+Added Pin To Net: NetName=VCC Pin=TILT-3
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
